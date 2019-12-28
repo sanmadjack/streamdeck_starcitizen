@@ -1,0 +1,158 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/ShieldsReset",
+      "Name": "Shields Reset",
+      "States": [
+        {
+          "Image": "Images/ShieldsReset",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Reset",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.reset",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsFront",
+      "Name": "Shields Front",
+      "States": [
+        {
+          "Image": "Images/ShieldsFront",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Front",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.front",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsBack",
+      "Name": "Shields Back",
+      "States": [
+        {
+          "Image": "Images/ShieldsBack",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Back",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.back",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsLeft",
+      "Name": "Shields Left",
+      "States": [
+        {
+          "Image": "Images/ShieldsLeft",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Left",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.left",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsRight",
+      "Name": "Shields Right",
+      "States": [
+        {
+          "Image": "Images/ShieldsRight",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Right",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.right",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsTop",
+      "Name": "Shields Top",
+      "States": [
+        {
+          "Image": "Images/ShieldsTop",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Top",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.top",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsBottom",
+      "Name": "Shields Bottom",
+      "States": [
+        {
+          "Image": "Images/ShieldsBottom",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Bottom",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.bottom",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsOFF",
+      "Name": "Shields Off",
+      "States": [
+        {
+          "Image": "Images/ShieldsOff",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields Off",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.off",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    },
+    {
+      "Icon": "Images/ShieldsON",
+      "Name": "Shields On",
+      "States": [
+        {
+          "Image": "Images/ShieldsON",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shields On",
+      "UUID": "net.darkholme.starcitizen.sdPlugin.shields.on",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }   
+    ],
+  "Author": "Matthew Barbour",
+  "Name": "net.darkholme.starcitizen.sdPlugin",
+  "Description": "Star Citizen",
+  "Icon": "Images/icon",
+  "URL": "TODO_ENTER_YOUR_HOMEPAGE",
+  "Version": "1.0",
+  "CodePath": "net.darkholme.starcitizen.sdPlugin",
+  "Category": "Star Citizen",
+  "CategoryIcon": "Images/icon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.3"
+  }
+}
